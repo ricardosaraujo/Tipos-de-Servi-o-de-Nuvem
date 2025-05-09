@@ -18,3 +18,12 @@ _**SaaS (Software como Serviço)**_\
 Nesse modelo o usuário se conecta e usa o serviço para aplicativos e apps e gerencia o acesso de cada usuário liberando o acesso conforme a necessidade, assim como é feito por exemplo no Office 365 que o usuário tem cada vez mais acesso a todos os serviços conforme o tipo de assinatura que ele possui.
 
 ![](<.gitbook/assets/Print tipos de nuvem.png>)Exemplo de cada tipo de serviço em nuvem Azure
+
+
+
+## Modelo de Responsabilidade Compartilhada
+
+Através da tabela abaixo podemos ver o poder do SaaS, pois a maior parte de responsabilidade é da Microsoft, sendo de responsabilidade do usuário somente informações e dados, diapositivos móveis, contas e identidades e dividir o serviço de infra de identidade e diretório, os demais serviços sõo de responsabilidade da Microsoft.
+
+![](<.gitbook/assets/Modelos de responsabilidades compartilhada.png>)
+
