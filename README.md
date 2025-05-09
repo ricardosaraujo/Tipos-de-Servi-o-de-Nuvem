@@ -27,3 +27,29 @@ Através da tabela abaixo podemos ver o poder do SaaS, pois a maior parte de res
 
 ![](<.gitbook/assets/Modelos de responsabilidades compartilhada.png>)
 
+
+
+## Compativo entre os Serviços
+
+_**IaaS (Infraestrutura como Serviço)**_
+
+É um serviço de nuvem mais flexível, pois ele te da mais poderes de configurações, você consegue gerir, personalizar mais do que outros modelos.
+
+
+
+_**PaaS (Plataforma de Serviço)**_
+
+Esse é mais focado no desenvolvimento de aplicativos, banco de dados, etc.
+
+
+
+_**SaaS (Software como Serviço)**_
+
+Pagamento conforme o uso de aplicativos e apps que já existem na plataforma, os usuários pagam pelo software que utilizam em um modelo de assinatura.
+
+
+
+Níveis de Gestão
+
+Infraestrutura é sempre a maior gestão&#x20;
+
