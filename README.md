@@ -51,5 +51,9 @@ Pagamento conforme o uso de aplicativos e apps que já existem na plataforma, os
 
 Níveis de Gestão
 
-Infraestrutura é sempre a maior gestão&#x20;
+**Infraestrutura** é sempre a maior gestão
+
+**Plataforma** é um serviço intermediário&#x20;
+
+Software é um serviço de assinatura sendo o de menor gestão
 
