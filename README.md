@@ -1,2 +1,2 @@
-# Tipos-de-Servi-o-de-Nuvem
+# Tipos-de-Servico-de-Nuvem
 IaaS, PaaS e SaaS
